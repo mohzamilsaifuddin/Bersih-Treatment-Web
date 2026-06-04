@@ -1,0 +1,9 @@
+{
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/admin/pembayaran/page": "app/admin/pembayaran/page.js",
+  "/admin/pesanan/page": "app/admin/pesanan/page.js",
+  "/admin/layanan/page": "app/admin/layanan/page.js",
+  "/admin/galeri/page": "app/admin/galeri/page.js",
+  "/admin/pelanggan/page": "app/admin/pelanggan/page.js"
+}
